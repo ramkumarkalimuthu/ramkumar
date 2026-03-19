@@ -21512,6 +21512,8 @@ body.loaded {
 }
 .tmp-portfolio img {
   width: 100%;
+  height: 231px;
+    object-fit: cover;
 }
 .tmp-portfolio::after {
   content: " ";
